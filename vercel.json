@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 {
     "version": 2,
     "builds": [
@@ -13,7 +13,7 @@
         "dest": "index.js"
       }
     ]
-=======
+}
 {
     "version": 2,
     "builds": [
@@ -28,5 +28,5 @@
         "dest": "index.js"
       }
     ]
->>>>>>> 710f0818a56484dce2bc854a52f1afd87c2ac11e
+
   }
